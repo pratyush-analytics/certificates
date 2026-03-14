@@ -16,6 +16,7 @@ Welcome to my professional certificates repository. This collection showcases my
 | 8 | Certificate 8 | Certificate8.pdf |
 | 9 | Certificate 9 | Certificate9.pdf |
 | 10 | Certificate 10 | Certificate10.pdf |
+| 11 | Certificate 11 | Certificate11.pdf |
 
 All certificates are stored in the `/certificates` directory.
 
