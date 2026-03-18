@@ -4,19 +4,22 @@ Welcome to my professional certificates repository. This collection showcases my
 
 ## 📜 Certificates List
 
-| # | Certificate Name | File |
+| # | Certificate Name | File Path |
 |---|------------------|------|
-| 1 | Certificate 1 | Certificate1.pdf |
-| 2 | Certificate 2 | Certificate2.pdf |
-| 3 | Certificate 3 | Certificate3.pdf |
-| 4 | Certificate 4 | Certificate4.pdf |
-| 5 | Certificate 5 | Certificate5.pdf |
-| 6 | Certificate 6 | Certificate6.pdf |
-| 7 | Certificate 7 | Certificate7.pdf |
-| 8 | Certificate 8 | Certificate8.pdf |
-| 9 | Certificate 9 | Certificate9.pdf |
-| 10 | Certificate 10 | Certificate10.pdf |
-| 11 | Certificate 11 | Certificate11.pdf |
+| 1 | Budget_2026 | C:\Users\praty\OneDrive\certificates\Budget_2026.png |
+| 2 | mindluster_powerbi | C:\Users\praty\OneDrive\certificates\mindluster_powerbi.pdf |
+| 3 | google drive | C:\Users\praty\OneDrive\certificates\google drive.pdf |
+| 4 | alison_intermidiateExcel | C:\Users\praty\OneDrive\certificates\alison_intermidiateExcel.pdf |
+| 5 | NISM_literacyquiz | C:\Users\praty\OneDrive\certificates\NISM_literacyquiz.pdf |
+| 6 | NISM_listingofSSE | C:\Users\praty\OneDrive\certificates\NISM_listingofSSE.jpg |
+| 7 | delotie_completion certificates  | C:\Users\praty\OneDrive\certificates\delotie_completion certificates.pdf |
+| 8 | mybharat_essay | C:\Users\praty\OneDrive\certificates\mybharat_essay.pdf |
+| 9 | tata_data_visualisation | C:\Users\praty\OneDrive\certificates\tata_data_visualisation.pdf |
+| 10 | NISM_SEBI | C:\Users\praty\OneDrive\certificates\NISM_SEBI.pdf |
+| 11 | JPMorganChase Investment Banking Job Simulation on Forage | C:\Users\praty\OneDrive\certificates\JPMorganChase Investment Banking Job Simulation on Forage.pdf |
+| 12 | MyBharat_Quiz_Certificate | C:\Users\praty\OneDrive\certificates\MyBharat_Quiz_Certificate.png |
+| 13 | MYBharart_viksitbharat  | C:\Users\praty\OneDrive\certificates\MYBharart_viksitbharat.png |
+
 
 All certificates are stored in the `/certificates` directory.
 
