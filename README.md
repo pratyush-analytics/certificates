@@ -20,6 +20,7 @@ Welcome to my professional certificates repository. This collection showcases my
 | 12 | MyBharat_Quiz_Certificate | C:\Users\praty\OneDrive\certificates\MyBharat_Quiz_Certificate.png |
 | 13 | MYBharart_viksitbharat  | C:\Users\praty\OneDrive\certificates\MYBharart_viksitbharat.png |
 | 14 | KPMG US Career Catalyst_Audit Job Simulation on Forage  | C:\Users\praty\OneDrive\certificates\KPMG US Career Catalyst_Audit Job Simulation on Forage.pdf |
+| 15 | Data Analyst - Big 4 Ready-Certificate | C:\Users\praty\OneDrive\certificates\Data Analyst - Big 4 Ready-Certificate.pdf |
 
 All certificates are stored in the `/certificates` directory.
 
