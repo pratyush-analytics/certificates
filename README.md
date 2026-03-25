@@ -2,7 +2,7 @@
 
 Welcome to my professional certificates repository. This collection showcases my credentials and achievements.
 
-## 📜 Certificates List
+## 📜 Certificates Lis
 
 | # | Certificate Name | File Path |
 |---|------------------|------|
