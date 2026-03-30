@@ -22,6 +22,7 @@ Welcome to my professional certificates repository. This collection showcases my
 | 14 | KPMG US Career Catalyst_Audit Job Simulation on Forage  | C:\Users\praty\OneDrive\certificates\KPMG US Career Catalyst_Audit Job Simulation on Forage.pdf |
 | 15 | Data Analyst - Big 4 Ready-Certificate | C:\Users\praty\OneDrive\certificates\Data Analyst - Big 4 Ready-Certificate.pdf |
 | 16 | be10x AI Agentic | C:\Users\praty\OneDrive\certificates\be10x AI Agentic.pdf |
+| 17 | Simplilearn_BlockchainDeveloperTraining | C:\Users\praty\OneDrive\certificates\Simplilearn_BlockchainDeveloperTraining.pdf |
 
 All certificates are stored in the `/certificates` directory.
 
