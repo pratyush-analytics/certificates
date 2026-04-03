@@ -24,6 +24,8 @@ Welcome to my professional certificates repository. This collection showcases my
 | 16 | be10x AI Agentic | C:\Users\praty\OneDrive\certificates\be10x AI Agentic.pdf |
 | 17 | Simplilearn_BlockchainDeveloperTraining | C:\Users\praty\OneDrive\certificates\Simplilearn_BlockchainDeveloperTraining.pdf |
 | 18 | DataCamp_python | C:\Users\praty\Downloads\DataCamp_Python.pdf |
+
+
 All certificates are stored in the `/certificates` directory.
 
 ---
