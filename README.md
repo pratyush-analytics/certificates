@@ -26,6 +26,7 @@ Welcome to my professional certificates repository. This collection showcases my
 | 18 | DataCamp_python | C:\Users\praty\Downloads\DataCamp_Python.pdf |
 | 19 | Unstop_dailyquiz | C:\Users\praty\OneDrive\certificates\Unstop_dailyquiz.pdf |
 | 20 | TCS_AIforALL | C:\Users\praty\OneDrive\certificates\tcs_AIForALL.pdf |
+| 21 | NPTEL | C:\Users\praty\OneDrive\certificaes\NPTEL.pdf  |
 
 All certificates are stored in the `/certificates` directory.
 
