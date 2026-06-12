@@ -28,7 +28,8 @@ Welcome to my professional certificates repository. This collection showcases my
 | 20 | TCS_AIforALL | C:\Users\praty\OneDrive\certificates\tcs_AIForALL.pdf |
 | 21 | NPTEL | C:\Users\praty\OneDrive\certificaes\NPTEL.pdf  |
 | 22 | Case Buddy 2.0_SRCC | C:\Users\praty\OneDrive\certificaes\Case Buddy 2.0_SRCC |
-
+| 23 | Data Analyst_Datacamp.pdf |C:\Users\praty\OneDrive\certificates\Data Analyst_Datacamp.pdf |
+| 24 | The Open University_MSE's Academy of money.pdf | C:\Users\praty\OneDrive\certificates\The Open University_MSE's Academy of money.pdf |
 All certificates are stored in the `/certificates` directory.
 
 ---
