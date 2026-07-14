@@ -30,6 +30,7 @@ Welcome to my professional certificates repository. This collection showcases my
 | 22 | Case Buddy 2.0_SRCC | C:\Users\praty\OneDrive\certificaes\Case Buddy 2.0_SRCC |
 | 23 | Data Analyst_Datacamp.pdf |C:\Users\praty\OneDrive\certificates\Data Analyst_Datacamp.pdf |
 | 24 | The Open University_MSE's Academy of money.pdf | C:\Users\praty\OneDrive\certificates\The Open University_MSE's Academy of money.pdf |
+| 25 | Harith sarthi quiz  | C:\Users\praty\OneDrive\certificates\Pratyush Gupta.pdf |
 All certificates are stored in the `/certificates` directory.
 
 ---
